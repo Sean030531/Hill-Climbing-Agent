@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+temp*.urdf
+test.urdf
+elites/elite_*.csv
+.DS_Store
